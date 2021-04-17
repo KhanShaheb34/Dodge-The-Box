@@ -4,7 +4,7 @@
 </a>
 </p>
 
-# <div align="center">Snake Mania<div>
+# <div align="center">Dodge The Box<div>
 
 [![play online](https://img.shields.io/badge/Play-Online-d40000?logo=asciinema&style=flat-square)](http://khanshaheb.me/Dodge-The-Box/)
 [![Windows Download](https://img.shields.io/badge/Download-Windows-0078d6?style=flat-square&logo=windows)](https://github.com/KhanShaheb34/Dodge-The-Box/releases/download/1.0.0/DodgeTheBox_WinX86.zip)
@@ -17,3 +17,9 @@ You're just a simple ball rolling on the floor, dodging all the boxes. Can you c
 The game is built using Unity. And C# was used as programming language.
 
 [![gameplay](/images/dtb_gameplay.gif)](http://khanshaheb.me/Dodge-The-Box/)
+
+## Play
+
+You can always play this game online from any computer from [this link](http://khanshaheb.me/Dodge-The-Box/).
+
+Or download the [release for windows](https://github.com/KhanShaheb34/Dodge-The-Box/releases/download/1.0.0/DodgeTheBox_WinX86.zip).
